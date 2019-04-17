@@ -4,7 +4,7 @@
 
 # 使用教程请看 [WIKI](https://github.com/rico93/pay-v2ray-sspanel-v3-mod_Uim-plugin/wiki/)
 
-### 免费版 [请点击这里](https://github.com/rico93/v2ray-sspanel-v3-mod_Uim-plugin/)
+### 免费版 [请点击这里](https://github.com/MiryanSir/v2ray-sspanel-v3-mod_Uim-plugin/)
 
 ## 公告
 
